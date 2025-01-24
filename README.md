@@ -1,2 +1,2 @@
 # force-enable-copy-paste
-amplify prevents copy and pasting. this solves that
+quill prevents copy and pasting. this solves that
